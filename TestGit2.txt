@@ -1,0 +1,1 @@
+This File is created after the Git is initialized

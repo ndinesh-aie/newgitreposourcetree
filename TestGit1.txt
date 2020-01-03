@@ -1,0 +1,1 @@
+Hi, This is the firstText file created to test the Git Tutorials
